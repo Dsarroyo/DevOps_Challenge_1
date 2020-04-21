@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<l:dependencies xmlns:l='licenses' groupId='org.jenkins-ci.plugins' artifactId='openid' version='2.4'><l:dependency name='OpenID plugin' groupId='org.jenkins-ci.plugins' artifactId='openid' version='2.4' url='https://github.com/jenkinsci/openid-plugin/blob/master/README.adoc'><l:description>The Jenkins Plugins Parent POM Project</l:description><l:license name='The MIT license' url='https://opensource.org/licenses/MIT'/></l:dependency></l:dependencies>

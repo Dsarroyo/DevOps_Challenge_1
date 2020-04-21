@@ -1,0 +1,34 @@
+<map>
+  <entry>
+    <string>gradle</string>
+    <string>Failure</string>
+  </entry>
+  <entry>
+    <string>credentials-binding</string>
+    <string>Failure</string>
+  </entry>
+  <entry>
+    <string>workflow-aggregator</string>
+    <string>Failure</string>
+  </entry>
+  <entry>
+    <string>git</string>
+    <string>Failure</string>
+  </entry>
+  <entry>
+    <string>subversion</string>
+    <string>Failure</string>
+  </entry>
+  <entry>
+    <string>github-branch-source</string>
+    <string>Failure</string>
+  </entry>
+  <entry>
+    <string>ssh-slaves</string>
+    <string>Failure</string>
+  </entry>
+  <entry>
+    <string>pipeline-github-lib</string>
+    <string>Failure</string>
+  </entry>
+</map>

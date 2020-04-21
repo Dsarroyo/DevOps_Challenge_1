@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: ogondza
+Build-Jdk: 1.8.0_222
+Extension-Name: kerberos-sso
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: kerberos-sso
+Implementation-Version: 1.7
+Group-Id: com.sonymobile.jenkins.plugins.kerberos-sso
+Short-Name: kerberos-sso
+Long-Name: Kerberos SSO plugin
+Url: http://wiki.jenkins-ci.org/display/JENKINS/Kerberos+SSO+Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.7
+Hudson-Version: 2.150.2
+Jenkins-Version: 2.150.2
+Plugin-Dependencies: configuration-as-code:1.12
+Plugin-Developers: Fredrik Persson:fredrikpersson:fredrik6.persson@son
+ ymobile.com,Joakim Ahle:joakim_ahle:joakim.ahle@sonymobile.com,Robert
+  Sandell:rsandell:robert.sandell@sonymobile.com,Tomas Westling:t_west
+ ling:tomas.westling@sonymobile.com,Oliver Gondža:olivergondza:ogondz
+ a@gmail.com
+

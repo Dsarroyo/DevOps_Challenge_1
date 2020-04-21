@@ -1,0 +1,22 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: mac
+Build-Jdk: 1.8.0_162
+Extension-Name: oic-auth
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: oic-auth
+Implementation-Version: 1.7
+Group-Id: org.jenkins-ci.plugins
+Short-Name: oic-auth
+Long-Name: OpenId Connect Authentication Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/Openid+Connect+Authen
+ tication+Plugin
+Minimum-Java-Version: 1.8
+Plugin-Version: 1.7
+Hudson-Version: 2.60.3
+Jenkins-Version: 2.60.3
+Plugin-Dependencies: mailer:1.6
+Plugin-Developers: Michael Bischoff:mbischoff:m.bischoff@controplex.co
+ m,Steve Arch:agentgonzo:sarch@cloudbees.com
+

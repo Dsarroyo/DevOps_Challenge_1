@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: vincent
+Build-Jdk: 1.8.0_212
+Extension-Name: google-login
+Specification-Title: The Jenkins Plugins Parent POM Project
+Implementation-Title: google-login
+Implementation-Version: 1.6
+Group-Id: org.jenkins-ci.plugins
+Short-Name: google-login
+Long-Name: Google Login Plugin
+Url: https://wiki.jenkins.io/display/JENKINS/Google+Login+Plugin
+Plugin-Version: 1.6
+Hudson-Version: 2.60.1
+Jenkins-Version: 2.60.1
+Plugin-Dependencies: mailer:1.6
+Plugin-Developers: Ryan Campbell:recampbell:ryan.campbell@gmail.com
+

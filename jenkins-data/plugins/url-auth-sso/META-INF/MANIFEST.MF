@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: Peter
+Build-Jdk: 1.8.0_92
+Extension-Name: url-auth-sso
+Specification-Title: Allows users to be logged in to Jenkins automatic
+ ally when they are logged into another site.
+Implementation-Title: url-auth-sso
+Implementation-Version: 1.0
+Group-Id: cf.pgmann.plugins
+Short-Name: url-auth-sso
+Long-Name: URL Auth Plugin
+Url: https://wiki.jenkins-ci.org/display/JENKINS/URL+Auth+SSO+Plugin
+Plugin-Version: 1.0
+Hudson-Version: 1.625.3
+Jenkins-Version: 1.625.3
+Plugin-Dependencies: mailer:1.17
+Plugin-Developers: pgmann:pgmann:pgmann@pgmann.cf
+

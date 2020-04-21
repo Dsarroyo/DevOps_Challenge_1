@@ -1,0 +1,3 @@
+[filesystem "4b39c8dc2d90|Oracle Corporation|1.8.0_242|grpcfuse"]
+	timestampResolution = 2001 microseconds
+	minRacyThreshold = 0 nanoseconds
